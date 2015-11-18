@@ -8,11 +8,14 @@
 *.war
 *.ear
 
+<<<<<<< HEAD
 # Package Folders #
 build/
 nbproject/
 
 
 
+=======
+>>>>>>> f74d1483812eed83e0e6e36105d38459e09957c9
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
